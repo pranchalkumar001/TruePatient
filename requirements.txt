@@ -1,0 +1,7 @@
+torch
+transformers
+PIL
+fastapi
+uvicorn
+python-dotenv
+# Add any additional ML dependencies here
